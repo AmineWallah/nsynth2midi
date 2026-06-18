@@ -7,3 +7,4 @@
 nsynth-valid/
 __pycache__/
 *.pyc
+!confusion.png
