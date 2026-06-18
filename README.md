@@ -1,7 +1,7 @@
 # NSynth2MIDI Monophonic Transcriber
 Nsynth2MIDI is a small machine learning project (that i made after around 2 weeks of learning stuff idk) supposed to transcribe .wav files into MIDI format, it uses the NSynth dataset's (credit below) audio library of labeled audios files of single notes to predict a .wav file's succession of notes relying mainly on a random forest classifier and a sliding window algorithm.
 
-## How It works
+## How It Works
 The pipeline NSynth2MIDI relies on is the following:
 1. Loading of the dataset's audio files
 2. Feature extraction using `librosa`
