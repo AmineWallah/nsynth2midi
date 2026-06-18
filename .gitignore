@@ -1,0 +1,9 @@
+.venv/
+*.npy
+*.pkl
+*.wav
+*.png
+*.mid
+nsynth-valid/
+__pycache__/
+*.pyc

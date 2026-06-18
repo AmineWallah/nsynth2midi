@@ -1,0 +1,10 @@
+[project]
+name = "audio2midi"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "librosa>=0.11.0",
+    "matplotlib>=3.10.9",
+    "pretty-midi>=0.2.11",
+    "tqdm>=4.68.3",
+]
